@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/seyeadamaUASZ/hexagonal-infra.git
+    repoURL: https://github.com/seyeadamaUASZ/bookstore-infra.git
     targetRevision: HEAD
     path: dev
   destination: 
